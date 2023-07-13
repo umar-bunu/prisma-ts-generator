@@ -1,1 +1,1 @@
-# prisma-ts-generator
+# PRISMA-TS-GENERATOR
